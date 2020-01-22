@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76a10ae4-d8c7-4bd0-93f8-0c708e853c93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/psp-servicios-en-red" />
+  </component>
+  <component name="ProjectId" id="1VCYquWZgsIOrgTsHV7AL3Z1xG1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lawl\Documents\EspaciosDeTrabajo\psp\src\object_server" />
+      <recent name="C:\Users\lawl\Documents\EspaciosDeTrabajo\psp\src\object_client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ObjectClient">
+    <configuration name="ObjectClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object_client.ObjectClient" />
+      <module name="FileServerConFilename" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object_client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object_server.ObjectServer" />
+      <module name="FileServerConFilename" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="object_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ObjectClient" />
+        <item itemvalue="Application.ObjectServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76a10ae4-d8c7-4bd0-93f8-0c708e853c93" name="Default Changelist" comment="" />
+      <created>1576758737450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576758737450</updated>
+      <workItem from="1576758740150" duration="99000" />
+      <workItem from="1576758873633" duration="101000" />
+      <workItem from="1576759147421" duration="1856000" />
+      <workItem from="1576765531104" duration="406000" />
+      <workItem from="1576765956241" duration="56000" />
+      <workItem from="1576766029033" duration="898000" />
+      <workItem from="1576766947708" duration="1288000" />
+      <workItem from="1576768338037" duration="799000" />
+      <workItem from="1576769235582" duration="195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/psp-servicios-en-red" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="192" width="1146" height="673" key="#Plugins" timestamp="1576766926924">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="192" width="1146" height="673" key="#Plugins/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576766926924" />
+    <state x="765" y="210" key="#com.intellij.ide.util.MemberChooser" timestamp="1576767384049">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="210" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576767384049" />
+    <state x="690" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576759396105">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576759396105" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1576769430358">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576769430358" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1576769430358">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576769430358" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1576769430358">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576769430358" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1576769430358">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576769430358" />
+    <state width="1877" height="253" key="GridCell.Tab.1.bottom" timestamp="1576769136828">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="253" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576769136828" />
+    <state width="1877" height="253" key="GridCell.Tab.1.center" timestamp="1576769136828">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="253" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576769136828" />
+    <state width="1877" height="253" key="GridCell.Tab.1.left" timestamp="1576769136828">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="253" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576769136828" />
+    <state width="1877" height="253" key="GridCell.Tab.1.right" timestamp="1576769136828">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="253" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576769136828" />
+    <state x="581" y="189" key="SettingsEditor" timestamp="1576766119706">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="581" y="189" key="SettingsEditor/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576766119706" />
+    <state x="547" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1576769235221">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="547" y="290" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576769235221" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1576766172968">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576766172968" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1576766913010">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1576766913010" />
+  </component>
+</project>
