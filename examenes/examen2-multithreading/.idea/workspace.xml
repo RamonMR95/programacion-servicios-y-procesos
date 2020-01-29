@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48e9610c-beac-4aad-857d-a284458d5f04" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X3lKnFUfopxc1jznSxZLyN3jqr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Banco (1)">
+    <configuration name="Banco (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Banco" />
+      <module name="examen-multithreading-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ramonmr95.app.Banco" />
+      <module name="examen-multithreading-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ramonmr95.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Banco (1)" />
+        <item itemvalue="Application.Banco" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48e9610c-beac-4aad-857d-a284458d5f04" name="Default Changelist" comment="" />
+      <created>1580282598433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580282598433</updated>
+      <workItem from="1580282601973" duration="3648000" />
+      <workItem from="1580286402636" duration="419000" />
+      <workItem from="1580287018566" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="608" y="141" width="374" height="570" key="#com.intellij.ide.util.MemberChooser" timestamp="1580284009991">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="608" y="141" width="374" height="570" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1580284009991" />
+    <state x="555" y="317" width="489" height="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580286509952">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="555" y="317" width="489" height="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1580286509952" />
+    <state width="1558" height="217" key="GridCell.Tab.0.bottom" timestamp="1580286820655">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="217" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1580286820655" />
+    <state width="1558" height="217" key="GridCell.Tab.0.center" timestamp="1580286820655">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="217" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1580286820655" />
+    <state width="1558" height="217" key="GridCell.Tab.0.left" timestamp="1580286820655">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="217" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1580286820655" />
+    <state width="1558" height="217" key="GridCell.Tab.0.right" timestamp="1580286820655">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="217" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1580286820655" />
+    <state width="1558" height="269" key="GridCell.Tab.1.bottom" timestamp="1580286251094">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="269" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1580286251094" />
+    <state width="1558" height="269" key="GridCell.Tab.1.center" timestamp="1580286251094">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="269" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1580286251094" />
+    <state width="1558" height="269" key="GridCell.Tab.1.left" timestamp="1580286251094">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="269" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1580286251094" />
+    <state width="1558" height="269" key="GridCell.Tab.1.right" timestamp="1580286251094">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1558" height="269" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1580286251094" />
+    <state x="483" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1580287018435">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="483" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1580287018435" />
+    <state x="545" y="60" width="500" height="732" key="refactoring.ChangeSignatureDialog" timestamp="1580284853331">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="545" y="60" width="500" height="732" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1580284853331" />
+  </component>
+</project>
