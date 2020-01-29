@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48e9610c-beac-4aad-857d-a284458d5f04" name="Default Changelist" comment="" />
+    <list default="true" id="48e9610c-beac-4aad-857d-a284458d5f04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1X3lKnFUfopxc1jznSxZLyN3jqr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,14 +29,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunManager" selected="Application.Banco (1)">
     <configuration name="Banco (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -90,6 +100,7 @@
       <workItem from="1580282601973" duration="3648000" />
       <workItem from="1580286402636" duration="419000" />
       <workItem from="1580287018566" duration="94000" />
+      <workItem from="1580287353402" duration="748000" />
     </task>
     <servers />
   </component>
@@ -137,10 +148,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1558" height="269" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1580286251094" />
-    <state x="483" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1580287018435">
+    <state x="304" y="64" key="SettingsEditor" timestamp="1580287386352">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="483" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1580287018435" />
+    <state x="304" y="64" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1580287386352" />
+    <state x="483" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1580287354277">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="483" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1580287354277" />
     <state x="545" y="60" width="500" height="732" key="refactoring.ChangeSignatureDialog" timestamp="1580284853331">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
